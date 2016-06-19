@@ -1,0 +1,33 @@
+<RCC>
+    <qresource prefix="/">
+        <file alias="ground.png">image/GROUND.png</file>
+        <file alias="bird_red">image/bird_red.png</file>
+        <file alias="brick_zhi">image/wood_zhi.png</file>
+        <file alias="brick_heng">image/wood_heng.png</file>
+        <file>image/bird_black.png</file>
+        <file>image/bird_white.png</file>
+        <file>image/bird_yellow.png</file>
+        <file>image/block1.png</file>
+        <file>image/block2.png</file>
+        <file>image/block10.png</file>
+        <file>image/block11.png</file>
+        <file>image/bun.png</file>
+        <file>image/bun2.png</file>
+        <file>image/dispear.png</file>
+        <file>image/dispear2.png</file>
+        <file>image/down.png</file>
+        <file>image/enemy1.png</file>
+        <file>image/enemy2.png</file>
+        <file>image/greenbird.png</file>
+        <file>image/pig.png</file>
+        <file>image/pig1.png</file>
+        <file>image/pig3.png</file>
+        <file>image/plate.png</file>
+        <file>image/rope1.png</file>
+        <file>image/rope2.png</file>
+        <file>image/up.png</file>
+        <file>image/wall.png</file>
+        <file>image/bird_blue.png</file>
+        <file>image/123.mp3</file>
+    </qresource>
+</RCC>
